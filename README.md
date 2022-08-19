@@ -1,4 +1,4 @@
-### Hi I`m Nurbek Normatov < img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b7611ee73907de5059c09c3082425fc56f1ff19d8ec9a&rid=giphy.gif&ct=s">
+### Hi I`m Nurbek Normatov 
 
 <!--
 **nurbeknormatov/nurbeknormatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
